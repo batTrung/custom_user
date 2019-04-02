@@ -8,10 +8,6 @@
 [https://www.djangobat.com/](https://www.djangobat.com/)
 
 
-## DEMO 
-
-[DEMO](https://map-viet.herokuapp.com)
-
 ## Cài đặt
 
 Đầu tiên, tải repository về máy tính:
